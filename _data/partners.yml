@@ -1,5 +1,5 @@
 -
   group: "Main sponsors"
   elements:
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Octagon Small Grants Fund", description: "Octagon Small Grants Fund", link: "http://www.ucl.ac.uk/institute-of-advanced-studies/octagon/accordion/octagon-small-grants-fund/", imageUrl: "IAS_SGF.png"}
+    - {name: "Cancer Institute", description: "Cancer Institute", link: "http://www.ucl.ac.uk/cancer/", imageUrl: "ucl.png"}
