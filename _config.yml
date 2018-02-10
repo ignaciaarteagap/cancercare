@@ -21,12 +21,12 @@ googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
 # Organizer Info
-organizerName: "Ignacia Arteaga Perez, UCL"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Maria Ignacia Arteaga Perez and Clara Therod"
+organizerAlternateName: "PhD students at UCL"
+organizerDescription: "Two anthropologist who are passionate about cancer care"
+organizerEmail: "ignaciaarteagap@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.ucl.ac.uk/anthropology/people/research-students/maria-arteaga"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
