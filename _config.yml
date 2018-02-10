@@ -60,8 +60,8 @@ eventDate: "June 5th, 2018"
 typeoutTextValues: '"", "across the UK", " - call for papers open", '
 typeoutFallback: "across the UK"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register"}
+ - {permalink: "/#tickets", text: "Call for papers"}
 
 # About Block
 aboutTitle: "About Cancer Care"
