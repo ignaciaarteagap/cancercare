@@ -16,9 +16,9 @@ description: "We help people suffering from cancer"
 baseurl: "/cancercare"
 url: "https://ignaciaarteagap.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "ignaciaarteagap.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
 
 # Organizer Info
 organizerName: "Ignacia Arteaga Perez, UCL"
