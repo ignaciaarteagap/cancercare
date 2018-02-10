@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Cancer Care"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshop", image: "workshop.jpg", text: "Full-day of workshops, present your paper!" }
+ - {title: "Round table", image: "hackathon.jpg", text: "Discussin with the most important people in cancer care." }
+ - {title: "Keynotes", image: "conference.jpg", text: "Listen to Daniel Hochhauser and Sophie Day." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
