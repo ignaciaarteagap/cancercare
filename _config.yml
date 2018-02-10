@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Crafting values in cancer care <typeout> 2018"
 eventDate: "June 5th, 2018"
-typeoutTextValues: '"", "across the UK", "London", "United Kingdom"'
+typeoutTextValues: '"", "across the UK", " - call for papers open", '
 typeoutFallback: "across the UK"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
