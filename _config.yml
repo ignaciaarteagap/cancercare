@@ -99,8 +99,8 @@ mapMobileCenterCoordinates: "51.525163, -0.131572"
 
 # Partners Block
 organizersTitle: "Organisers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersTitle: "Sponsors"
+partnersC4sponsorsButton: ""
 
 
 # Footer
