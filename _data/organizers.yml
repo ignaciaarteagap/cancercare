@@ -1,4 +1,4 @@
 -
   group: "Main organizer"
   elements:
-    - {name: "UCL Anthropology department", description: "University College London - Department of Anthropology", link: "http://www.ucl.ac.uk/anthropology/", imageUrl: "gdg-kyiv.svg"}
+    - {name: "UCL Anthropology department", description: "University College London - Department of Anthropology", link: "http://www.ucl.ac.uk/anthropology/", imageUrl: "ucl.png"}
