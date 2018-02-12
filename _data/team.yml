@@ -10,9 +10,9 @@
 - 
   id: 1
   name: "Clara"
-  surname: "Therod"
+  surname: "Therond"
   title: "Organisation support"
-  thumbnailUrl: ClaraTherod.jpg
+  thumbnailUrl: ClaraTherond.jpg
   team: true
   social: 
     - {name: "site", link: "http://www.ucl.ac.uk/anthropology/people/research-students/maria-arteaga/"}
