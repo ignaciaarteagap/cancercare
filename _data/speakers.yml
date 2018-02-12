@@ -2,7 +2,7 @@
   id: 3
   name: "Prof. Daniel"
   surname: "Hochhauser"
-  company: "UCL Cancer Institute"
+  company: "Cancer Institute, UCL"
   title: "Director"
   bio: "Daniel Hochhauser is Co-Director of the Cancer Research UK-UCL Centre, Kathleen Ferrier Professor at UCL Cancer Institute, and medical oncologist at UCLH. After completion of postgraduate medical training in London and Oxford, and then being awarded a DPhil at the Institute of Molecular Medicine at Oxford, he completed specialist training at the Memorial Sloan-Kettering Cancer Center in New York before appointment as a senior lecturer and consultant. His major clinical interest is in gastrointestinal oncology, actively engaging in early phase clinical trial research and the development of novel targeted therapies."
   thumbnailUrl: DanielHochhauser.jpg
@@ -22,44 +22,38 @@
     - {name: "site", link: "https://www.gold.ac.uk/anthropology/staff/s-day/"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Dr. Sarah"
+  surname: "Gibbon"
+  company: "Department of Anthropology, UCL"
+  title: "Reader in Medical Anthropology"
+  bio: "Dr Sahra Gibbon is Reader in Medical Anthropology at the Department of Anthropology, University College London. Sahra’s long standing and extensive research in the field of BRCA genetics and cancer genetics, in the UK and Latin America, includes work examining the dynamic and changing relationships between ‘public’ and ‘scientists’ across culturally comparative landscapes, and how health inequalities and human genetic variation intersect in the context of cancer genetics.  
+
+In addition, to an impressive record of publications which includes the forthcoming ‘Routledge Handbook of Genomics, Health and Society’; ‘Breast Cancer Genes and the Gendering of Knowledge. Science and Citizenship in the Cultural Context of the New Genetics’; and ‘Breast Cancer Gene Research and Medical Practices: Translational Perspectives in the Time of BRCA’; Sahra is committed to forging new pathways of interdisciplinary work across academic boundaries whilst recognising the challenges of research on, in and with Life and Medical sciences."
+  thumbnailUrl: SahraGibbon.jpg
   rockstar: false
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "site", link: "http://www.ucl.ac.uk/anthropology/people/academic-teaching-staff/sahra-gibbon"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Dr. Anne"
+  surname: "Lanceley"
+  company: "Department of Women's Health, UCL"
+  title: "Senior lecturer"
+  bio: "Dr Anne Lanceley is senior lecturer in the Department of Women’s Health at UCL, and a specialist nurse and scientist for the Global Institute of Psychosocial, Palliative and End-of-Life-Care. Early in her career, Anne commissioned the first UK Teenage Cancer Unit in the UK. Today, as well as being elected Honorary Secretary to the British Psychological Oncology Society; a fellow of the European Academy of Nursing Science; and member of the European Organisation for the Research and Treatment of Cancer Quality of Life Group; Anne heads the Patient Care Research Group at UCL, a group that aims to develop new strategies to improve outcomes in psychological response, prevention and palliation of disease in women’s cancer."
+  thumbnailUrl: AnneLanceley.jpg
   rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "site", link: "https://iris.ucl.ac.uk/iris/browse/profile?upi=ALANC29"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Prof. Anne"
+  surname: "Kerr"
+  company: "University of Leeds"
+  title: "Professor of Sociology and Director of the Centre for Health, Technologies and Social Practice"
+  bio: "Anne Kerr is Professor of Sociology and Director of the Centre for Health, Technologies and Social Practice at the University of Leeds. Working in the field of Science and Technology Studies and Sociology, Anne’s research interests include a specialization in gender, genetics and biomedicine.  
+
+Anne currently holds a Wellcome Trust Senior Investigator award in Society and Ethics jointly with Dr Sarah Cunningham-Burley. Their research is focusing on the changing nature of patienthood in cancer. She has written extensively on social and ethical issues of science and technology and, more specifically, she is committed to research around issues of public understanding and engagement with genetics, professional discourses of responsibility and choice, responsible innovation, as well as affect in science and medicine. "
+  thumbnailUrl: AnneKerr.jpg
   rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "http://www.sociology.leeds.ac.uk/people/staff/kerr"}
