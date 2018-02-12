@@ -55,9 +55,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Crafting values in cancer care <typeout> 2018"
+heroTitle: "Crafting values in cancer care <typeout>"
 eventDate: "June 5th, 2018"
-typeoutTextValues: '"", "across the UK", " - call for papers open", '
+typeoutTextValues: '"", "across the UK", "call for papers open", "workshop", "conference", "round table", '
 typeoutFallback: "across the UK"
 heroButtons:
  - {link: "https://www.eventbrite.co.uk/e/interdisciplinary-conference-crafting-values-in-cancer-care-across-the-uk-tickets-43053132077", text: "Register"}
