@@ -23,9 +23,11 @@
 -
   id: 003
   title: "Key-notes"
-  description: "Professor Daniel Hochhauser (UCL Cancer Institute) and Professor Sophie Day (Goldmisths University) are two leading academics in the UK who will share with us their perspectives on the values and dynamics that shape cancer care in the country. Their presentations will be followed by Dr. Sahra Gibbon's closing remarks.
-
-We encourage the attendance of people coming from different professional backgrounds for an engaged disucssion over a glass of wine."
+  description: "Professor Daniel Hochhauser (UCL Cancer Institute) and Professor Sophie Day (Goldmisths University) are two leading academics in the UK who will share with us their perspectives on the values and dynamics that shape cancer care in the country. Their presentations will be followed by Dr. Sahra Gibbon's closing remarks."
   subtype: keynote
   speakers: [3, 4]
+-
+  id: 004
+  title: "Wine reception"
+  description: "We encourage the attendance of people coming from different professional backgrounds for an engaged disucssion over a glass of wine."
 
