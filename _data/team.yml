@@ -9,10 +9,10 @@
     - {name: "site", link: "http://www.ucl.ac.uk/anthropology/people/research-students/maria-arteaga/"}
 - 
   id: 1
-  name: "Joe"
-  surname: "Bloggs"
-  title: "Designer and Web Developer"
-  thumbnailUrl: JoeBloggs.jpg
+  name: "Clara"
+  surname: "Therod"
+  title: "Organisation support"
+  thumbnailUrl: ClaraTherod.jpg
   team: true
   social: 
     - {name: "site", link: "http://www.ucl.ac.uk/anthropology/people/research-students/maria-arteaga/"}
