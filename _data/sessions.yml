@@ -12,7 +12,7 @@
 -
   id: 001
   title: "Workshop"
-  description: "Healthcare professionals working in the field of cancer care will be invited to reflect, along with panellists and the wider audience on ethnographic work carried out by post-fieldwork PhD students and academics in the UK."
+  description: "Healthcare professionals working in the field of cancer care will be invited to reflect, along with panellists and the wider audience on ethnographic work carried out by post-fieldwork PhD students and academics in the UK. Schedule TBA."
   subtype: workshop
 -
   id: 002
@@ -25,11 +25,7 @@
 
 - Dr Anne Lanceley, lead of Patient Experience Research Group at UCL"
   subtype: presentation
-  speakers: [5, 6]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [5, 6, 7]
 -
   id: 003
   title: "Key-note speakers"
@@ -37,27 +33,5 @@
 
 We encourage the attendance of people coming from different professional backgrounds for an engaged disucssion over a glass of wine."
   subtype: keynote
-  speakers: [3,4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [3, 4]
+
