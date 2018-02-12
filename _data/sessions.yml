@@ -17,18 +17,12 @@
 -
   id: 002
   title: "Round-table discussion"
-  description: "Led by Dr Sahra Gibbon and three leading academics working in the field of cancer, to reflect on the continuum of cancer care, and possible lines for future research and collaboration between ethnography and oncology in the UK. Confirmed speakers are:
-
-- Dr Sahra Gibbon, Reader in medical Anthropology at UCL (chair)
-
-- Dr Anne Kerr, Professor of Sociology at University of Leeds
-
-- Dr Anne Lanceley, lead of Patient Experience Research Group at UCL"
+  description: "Led by Dr Sahra Gibbon and three leading academics working in the field of cancer, to reflect on the continuum of cancer care, and possible lines for future research and collaboration between ethnography and oncology in the UK. Confirmed speakers are: Dr Sahra Gibbon (chair), Dr Anne Kerr and Dr Anne Lanceley."
   subtype: presentation
   speakers: [5, 6, 7]
 -
   id: 003
-  title: "Key-note speakers"
+  title: "Key-notes"
   description: "Professor Daniel Hochhauser (UCL Cancer Institute) and Professor Sophie Day (Goldmisths University) are two leading academics in the UK who will share with us their perspectives on the values and dynamics that shape cancer care in the country. Their presentations will be followed by Dr. Sahra Gibbon's closing remarks.
 
 We encourage the attendance of people coming from different professional backgrounds for an engaged disucssion over a glass of wine."
