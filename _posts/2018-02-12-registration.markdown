@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Registration now pen"
+title:  "Registration Open"
 date:   2018-02-12 10:00:00
 isStaticPost: false
 ---
