@@ -50,8 +50,10 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.co.uk/e/interdisciplinary-conference-crafting-values-in-cancer-care-across-the-uk-tickets-43053132077", text: "Register"}
+ - {permalink: "/blog/call-for-papers", text: "Call for papers"}
 rightNavigationButtons:
  - {link: "https://www.eventbrite.co.uk/e/interdisciplinary-conference-crafting-values-in-cancer-care-across-the-uk-tickets-43053132077", text: "Register"}
+ - {permalink: "/blog/call-for-papers", text: "Call for papers"}
 
 # Hero Block
 heroImage: "hero.jpg"
