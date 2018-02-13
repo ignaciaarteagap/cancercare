@@ -56,4 +56,16 @@ Anne currently holds a Wellcome Trust Senior Investigator award in Society and E
   thumbnailUrl: AnneKerr.jpg
   rockstar: false
   social: 
-    - {name: "site", link: "http://www.sociology.leeds.ac.uk/people/staff/kerr"}
+    - {name: "site", link: "http://www.sociology.leeds.ac.uk/people/staff/kerr"}    -
+  id: 8
+  name: "Dr. Ana"
+  surname: "Porroche-Escudero"
+  company: "Division of Health Research, University of Lancaster"
+  title: "Senior Research Associate"
+  bio: "Dr Ana Porroche-Escudero is Senior Research Associate at the Division of Health Research, University of Lancaster. As medical anthropologist and activist, Ana’s scholarship has focused on women’s health, breast cancer and social inequality, sexual and reproductive health and rights, cancer education, methodology and community involvement in research and development.
+
+Ana  works on the intersections of anthropology, sociology, social policy, public health, development studies and activist praxis. Ana is particularly interested on the gendered nature of the multi-dimensional linkages between breast cancer and social inequalities. In the last years, Ana developed a health inequalities assessment toolkit for public initiatives taking place in North West Coast of England."
+  thumbnailUrl: AnaPorrocheEscudero.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "http://www.research.lancs.ac.uk/portal/en/people/ana-porrocheescudero(ed61266f-042e-46e0-9b2c-7e6ebf6a3f00).html"}
