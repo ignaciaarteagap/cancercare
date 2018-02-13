@@ -5,8 +5,6 @@ date:   2018-02-12 09:00:00
 isStaticPost: false
 ---
 
-![]({{ site.baseurl }}/img/posts/PosterConference.jpg)
-
 #### Crafting values in cancer care across the UK: at the intersection between oncology and ethnography
 
 Considerable transformations have taken place in cancer care over recent years in the UK. Long-term structural re-configurations of the NHS, novel therapies made possible through breakthroughs in wet labs and public awareness of some of the epi-genetic factors contributing to our understandings of cancer risk are just some of the variables that are changing the landscape of cancer care. In turn, qualitative health researchers are witnessing how these emergent projects are mobilising a myriad of epistemological, political and ethical categories that are shaping clinical dynamics and the modes through which our key informants are negotiating what good care is and what its effects are.
