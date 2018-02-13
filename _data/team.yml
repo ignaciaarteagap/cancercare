@@ -1,18 +1,16 @@
-- 
+-
   id: 0
   name: "Ignacia"
   surname: "Arteaga"
-  title: "Main organiser"
+  title: "Organiser"
   thumbnailUrl: IgnaciaArteaga.jpg
   team: true
-  social: 
+  social:
     - {name: "site", link: "http://www.ucl.ac.uk/anthropology/people/research-students/maria-arteaga/"}
-- 
+-
   id: 1
   name: "Clara"
   surname: "Therond"
   title: "Organisation support"
   thumbnailUrl: ClaraTherond.jpg
   team: true
-  social: 
-    - {name: "site", link: "http://www.ucl.ac.uk/anthropology/people/research-students/maria-arteaga/"}
