@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Crafting values in cancer care across the UK"
-email: "ignaciaarteagap@gmail.com"
+email: "info@valuesincancercare.uk"
 description: "We help people suffering from cancer"
 baseurl: "/"
 url: "http://www.valuesincancercare.uk"
@@ -24,7 +24,7 @@ siteVerification: ""
 organizerName: "Maria Ignacia Arteaga Perez and Clara Therond"
 organizerAlternateName: "PhD students at UCL"
 organizerDescription: "Two anthropologist who are passionate about cancer care"
-organizerEmail: "ignaciaarteagap@gmail.com"
+organizerEmail: "info@valuesincancercare.uk"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.ucl.ac.uk/anthropology/people/research-students/maria-arteaga"
 
@@ -115,7 +115,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:ignaciaarteagap@gmail.com", text: "ignaciaarteagap@gmail.com"}
+   - {link: "mailto:info@valuesincancercare.uk", text: "info@valuesincancercare.uk"}
 
 # Blog
 blogTitle: "Latest news"
