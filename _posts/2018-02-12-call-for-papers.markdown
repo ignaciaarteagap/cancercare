@@ -26,7 +26,9 @@ We invite submissions from any relevant discipline. Submissions should include a
 * Accepted participants must submit a working draft of their paper by the 8th May 2018.
 * Following the workshop, we ask that papers (max 3.500 words) are revised and submitted for publication by 1 October 2018. We aim to publish appropriate papers based on the conference presentations in a special issue of a multidisciplinary journal in 2020.
 
+<div class="col-md-4 text-center">
 <a href="https://goo.gl/forms/IsmqOLrpTPTQsBFD3" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Submit Abstract</a>
+</div>
 
 #### Contact
 For further information about the conference, please browse our conference website or contact the organisers at [info@valuesincancercare.uk](mailto:info@valuesincancercare.uk).
