@@ -21,10 +21,11 @@ We welcome papers by early career researchers and other academics who are explor
 
 #### Abstract submission and deadlines
 We invite submissions from any relevant discipline. Submissions should include an abstract (maximum 300 words), affiliation and contact details of the author(s).
-* Proposals must be submitted by __16th March 2018__ at [goo.gl/forms/IsmqOLrpTPTQsBFD3](https://goo.gl/forms/IsmqOLrpTPTQsBFD3)
+* Proposals must be submitted by __16th March 2018__.
 * Authors will be notified of acceptance on the 1st April by e-mail.
 * Accepted participants must submit a working draft of their paper by the 8th May 2018.
 * Following the workshop, we ask that papers (max 3.500 words) are revised and submitted for publication by 1 October 2018. We aim to publish appropriate papers based on the conference presentations in a special issue of a multidisciplinary journal in 2020.
+* Submit your abstract here:
 
 <a href="https://goo.gl/forms/IsmqOLrpTPTQsBFD3" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Submit Abstract</a>
 
