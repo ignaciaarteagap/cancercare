@@ -1,15 +1,15 @@
-- 
+-
   id: 3
   name: "Prof. Daniel"
   surname: "Hochhauser"
-  company: "Cancer Institute, UCL"
-  title: "Director"
+  company: "Cancer Research UK-UCL Centre"
+  title: "Co-Director"
   bio: "Daniel Hochhauser is Co-Director of the Cancer Research UK-UCL Centre, Kathleen Ferrier Professor at UCL Cancer Institute, and medical oncologist at UCLH. After completion of postgraduate medical training in London and Oxford, and then being awarded a DPhil at the Institute of Molecular Medicine at Oxford, he completed specialist training at the Memorial Sloan-Kettering Cancer Center in New York before appointment as a senior lecturer and consultant. His major clinical interest is in gastrointestinal oncology, actively engaging in early phase clinical trial research and the development of novel targeted therapies."
   thumbnailUrl: DanielHochhauser.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "site", link: "https://iris.ucl.ac.uk/iris/browse/profile?upi=DHOCH16"}
-- 
+-
   id: 4
   name: "Prof. Sophie"
   surname: "Day"
@@ -18,22 +18,22 @@
   bio: "Sophie Day is Professor of Anthropology at Goldsmiths University London. Alongside epidemiologist Professor Helen Ward, Sophie established the Patient Experience Research Centre at Imperial College which aims to promote active communication between patients, researchers and clinical staff to enhance the quality of healthcare.  In 2017, both professors together with Dr. Celia Lury received funding from the collaborative award by the Wellcome Trust to implement research project ‘People like You’ in which the research team aims to unpack the emergent culture of personalisation through an analysis of practices in healthcare, data science and digital culture."
   thumbnailUrl: SophieDay.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "site", link: "https://www.gold.ac.uk/anthropology/staff/s-day/"}
-- 
+-
   id: 5
   name: "Dr. Sarah"
   surname: "Gibbon"
   company: "Department of Anthropology, UCL"
   title: "Reader in Medical Anthropology"
-  bio: "Dr Sahra Gibbon is Reader in Medical Anthropology at the Department of Anthropology, University College London. Sahra’s long standing and extensive research in the field of BRCA genetics and cancer genetics, in the UK and Latin America, includes work examining the dynamic and changing relationships between ‘public’ and ‘scientists’ across culturally comparative landscapes, and how health inequalities and human genetic variation intersect in the context of cancer genetics.  
+  bio: "Dr Sahra Gibbon is Reader in Medical Anthropology at the Department of Anthropology, University College London. Sahra’s long standing and extensive research in the field of BRCA genetics and cancer genetics, in the UK and Latin America, includes work examining the dynamic and changing relationships between ‘public’ and ‘scientists’ across culturally comparative landscapes, and how health inequalities and human genetic variation intersect in the context of cancer genetics.
 
 In addition, to an impressive record of publications which includes the forthcoming ‘Routledge Handbook of Genomics, Health and Society’; ‘Breast Cancer Genes and the Gendering of Knowledge. Science and Citizenship in the Cultural Context of the New Genetics’; and ‘Breast Cancer Gene Research and Medical Practices: Translational Perspectives in the Time of BRCA’; Sahra is committed to forging new pathways of interdisciplinary work across academic boundaries whilst recognising the challenges of research on, in and with Life and Medical sciences."
   thumbnailUrl: SahraGibbon.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "site", link: "http://www.ucl.ac.uk/anthropology/people/academic-teaching-staff/sahra-gibbon"}
-- 
+-
   id: 6
   name: "Dr. Anne"
   surname: "Lanceley"
@@ -42,21 +42,22 @@ In addition, to an impressive record of publications which includes the forthcom
   bio: "Dr Anne Lanceley is senior lecturer in the Department of Women’s Health at UCL, and a specialist nurse and scientist for the Global Institute of Psychosocial, Palliative and End-of-Life-Care. Early in her career, Anne commissioned the first UK Teenage Cancer Unit in the UK. Today, as well as being elected Honorary Secretary to the British Psychological Oncology Society; a fellow of the European Academy of Nursing Science; and member of the European Organisation for the Research and Treatment of Cancer Quality of Life Group; Anne heads the Patient Care Research Group at UCL, a group that aims to develop new strategies to improve outcomes in psychological response, prevention and palliation of disease in women’s cancer."
   thumbnailUrl: AnneLanceley.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "site", link: "https://iris.ucl.ac.uk/iris/browse/profile?upi=ALANC29"}
-- 
+-
   id: 7
   name: "Prof. Anne"
   surname: "Kerr"
   company: "University of Leeds"
   title: "Professor of Sociology and Director of the Centre for Health, Technologies and Social Practice"
-  bio: "Anne Kerr is Professor of Sociology and Director of the Centre for Health, Technologies and Social Practice at the University of Leeds. Working in the field of Science and Technology Studies and Sociology, Anne’s research interests include a specialization in gender, genetics and biomedicine.  
+  bio: "Anne Kerr is Professor of Sociology and Director of the Centre for Health, Technologies and Social Practice at the University of Leeds. Working in the field of Science and Technology Studies and Sociology, Anne’s research interests include a specialization in gender, genetics and biomedicine.
 
 Anne currently holds a Wellcome Trust Senior Investigator award in Society and Ethics jointly with Dr Sarah Cunningham-Burley. Their research is focusing on the changing nature of patienthood in cancer. She has written extensively on social and ethical issues of science and technology and, more specifically, she is committed to research around issues of public understanding and engagement with genetics, professional discourses of responsibility and choice, responsible innovation, as well as affect in science and medicine. "
   thumbnailUrl: AnneKerr.jpg
   rockstar: false
-  social: 
-    - {name: "site", link: "http://www.sociology.leeds.ac.uk/people/staff/kerr"}    -
+  social:
+    - {name: "site", link: "http://www.sociology.leeds.ac.uk/people/staff/kerr"}
+    -
   id: 8
   name: "Dr. Ana"
   surname: "Porroche-Escudero"
