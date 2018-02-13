@@ -28,3 +28,5 @@ We invite submissions from any relevant discipline. Submissions should include a
 
 #### Contact
 For further information about the conference, please browse our conference website or contact the organisers at [info@valuesincancercare.uk](mailto:info@valuesincancercare.uk).
+
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/PosterConference.jpg" style="display:none">
