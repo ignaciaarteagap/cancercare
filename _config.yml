@@ -56,14 +56,14 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Crafting values in cancer care <typeout>"
 eventDate: "June 5th, 2018"
-typeoutTextValues: '"", "across the UK", "call for papers open", "workshop", "conference", "round table", '
+typeoutTextValues: '"", "across the UK", '
 typeoutFallback: "across the UK"
 heroButtons:
  - {link: "https://www.eventbrite.co.uk/e/interdisciplinary-conference-crafting-values-in-cancer-care-across-the-uk-tickets-43053132077", text: "Register"}
  - {permalink: "/blog/call-for-papers", text: "Call for papers"}
 
 # About Block
-aboutTitle: "About Cancer Care"
+aboutTitle: "About"
 aboutBlock:
  - {title: "Workshop", image: "workshop.png", text: "Healthcare professionals working in the field of cancer care will be invited to reflect, along with panellists and the wider audience on ethnographic work carried out by post-fieldwork PhD students and academics in the UK." }
  - {title: "Round table", image: "roundtable.png", text: "Led by Dr Sahra Gibbon and three leading academics working in the field of cancer, to reflect on the continuum of cancer care, and possible lines for future research and collaboration between ethnography and oncology in the UK. Confirmed speakers are: Dr Sahra Gibbon (chair), Dr Anne Kerr and Dr Anne Lanceley." }
