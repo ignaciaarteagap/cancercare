@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Cancer Care"
 aboutBlock:
- - {title: "Workshop", image: "workshop.jpg", text: "Healthcare professionals working in the field of cancer care will be invited to reflect, along with panellists and the wider audience on ethnographic work carried out by post-fieldwork PhD students and academics in the UK." }
- - {title: "Round table", image: "hackathon.jpg", text: "Led by Dr Sahra Gibbon and three leading academics working in the field of cancer, to reflect on the continuum of cancer care, and possible lines for future research and collaboration between ethnography and oncology in the UK. Confirmed speakers are: Dr Sahra Gibbon (chair), Dr Anne Kerr and Dr Anne Lanceley." }
- - {title: "Keynotes", image: "conference.jpg", text: "Professor Daniel Hochhauser (UCL Cancer Institute) and Professor Sophie Day (Goldmisths University) are two leading academics in the UK who will share with us their perspectives on the values and dynamics that shape cancer care in the country. Their presentations will be followed by Dr. Sahra Gibbon's closing remarks." }
+ - {title: "Workshop", image: "workshop.png", text: "Healthcare professionals working in the field of cancer care will be invited to reflect, along with panellists and the wider audience on ethnographic work carried out by post-fieldwork PhD students and academics in the UK." }
+ - {title: "Round table", image: "roundtable.png", text: "Led by Dr Sahra Gibbon and three leading academics working in the field of cancer, to reflect on the continuum of cancer care, and possible lines for future research and collaboration between ethnography and oncology in the UK. Confirmed speakers are: Dr Sahra Gibbon (chair), Dr Anne Kerr and Dr Anne Lanceley." }
+ - {title: "Keynotes", image: "key-note.png", text: "Professor Daniel Hochhauser (UCL Cancer Institute) and Professor Sophie Day (Goldmisths University) are two leading academics in the UK who will share with us their perspectives on the values and dynamics that shape cancer care in the country. Their presentations will be followed by Dr. Sahra Gibbon's closing remarks." }
 
 
 # Latest News Block
