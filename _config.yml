@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Crafting values in cancer care across the UK"
 email: "info@valuesincancercare.uk"
-description: "We help people suffering from cancer"
+description: "At the intersection between Oncology and Ethnography"
 baseurl: "/"
 url: "http://www.valuesincancercare.uk"
 permalink: "/blog/:title"
