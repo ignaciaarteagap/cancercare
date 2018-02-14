@@ -46,7 +46,7 @@ layout: compress
             document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvk9z1KJInS7qh1qZbyfTPJMRAPApMzhM&v=3.exp"><\/script>')
         } 
     </script>
-    {% elsif page.permalink == '/logistics/' %}
+    {% elsif page.permalink == '/getting-there/' %}
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvk9z1KJInS7qh1qZbyfTPJMRAPApMzhM&v=3.exp&libraries=places,geometry"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
@@ -102,7 +102,7 @@ layout: compress
                     }
                 }
             });
-        {% elsif page.permalink == '/logistics/' %}
+        {% elsif page.permalink == '/getting-there/' %}
             var googleMaps = 'logistics',
                 eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
                 centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
