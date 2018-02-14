@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/location/", text: "Location"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.co.uk/e/interdisciplinary-conference-crafting-values-in-cancer-care-across-the-uk-tickets-43053132077", text: "Register"}
 rightNavigationButtons:
