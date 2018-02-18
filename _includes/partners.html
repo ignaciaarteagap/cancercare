@@ -7,9 +7,12 @@
             <ul class="list-inline">
                 {% for element in organizer.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
+                    <figure class="figure">
+                        <a href="{{ element.link }}" target="_blank">
+                            <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" class="figure-img img-fluid rounded" title="{{ element.description }}" alt="{{ element.name }}">
+                        </a>
+                        <figcaption class="figure-caption">{{ element.name }}</figcaption>
+                    </figure>
                 </li>
                 {% endfor %}
             </ul>
