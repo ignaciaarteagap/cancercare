@@ -11,7 +11,9 @@
                         <a href="{{ element.link }}" target="_blank">
                             <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" class="figure-img img-fluid rounded" title="{{ element.description }}" alt="{{ element.name }}">
                         </a>
-                        <figcaption class="figure-caption">{{ element.name }}</figcaption>
+                        <a href="{{ element.link }}" target="_blank">
+                            <figcaption class="figure-caption">{{ element.name }}</figcaption>
+                        </a>
                     </figure>
                 </li>
                 {% endfor %}
@@ -22,9 +24,14 @@
             <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
+                    <figure class="figure">
+                        <a href="{{ element.link }}" target="_blank">
+                            <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        </a>
+                        <a href="{{ element.link }}" target="_blank">
+                            <figcaption class="figure-caption">{{ element.name }}</figcaption>
+                        </a>
+                    </figure>
                 </li>
                 {% endfor %}
             </ul>
