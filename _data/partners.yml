@@ -1,5 +1,5 @@
 -
   group: "Main sponsors"
   elements:
-    - {name: "Octagon Small Grants Fund", description: "Octagon Small Grants Fund, UCL", link: "http://www.ucl.ac.uk/institute-of-advanced-studies/octagon/accordion/octagon-small-grants-fund/", imageUrl: "IAS_SGF.png"}
-    - {name: "UCL Cancer Domain", description: "UCL Cancer Domain", link: "https://www.ucl.ac.uk/research/domains/cancer/", imageUrl: "ucl_cancer_domain.png"}
+    - {name: "Octagon Small Grants Fund", description: "Octagon Small Grants Fund, UCL", link: "http://www.ucl.ac.uk/institute-of-advanced-studies/octagon/accordion/octagon-small-grants-fund/", imageUrl: "IAS_SGF.png", width: "300px"}
+    - {name: "UCL Cancer Domain", description: "UCL Cancer Domain", link: "https://www.ucl.ac.uk/research/domains/cancer/", imageUrl: "ucl_cancer_domain.png", width: "360px"}
