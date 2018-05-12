@@ -21,30 +21,6 @@
   social:
     - {name: "site", link: "https://www.gold.ac.uk/anthropology/staff/s-day/"}
 -
-  id: 5
-  name: "Dr. Sahra"
-  surname: "Gibbon"
-  company: "Department of Anthropology, UCL"
-  title: "Reader in Medical Anthropology"
-  bio: "Dr Sahra Gibbon is Reader in Medical Anthropology at the Department of Anthropology, University College London. Sahra’s long standing and extensive research in the field of BRCA genetics and cancer genetics, in the UK and Latin America, includes work examining the dynamic and changing relationships between ‘public’ and ‘scientists’ across culturally comparative landscapes, and how health inequalities and human genetic variation intersect in the context of cancer genetics.
-
-In addition, to an impressive record of publications which includes the forthcoming ‘Routledge Handbook of Genomics, Health and Society’; ‘Breast Cancer Genes and the Gendering of Knowledge. Science and Citizenship in the Cultural Context of the New Genetics’; and ‘Breast Cancer Gene Research and Medical Practices: Translational Perspectives in the Time of BRCA’; Sahra is committed to forging new pathways of interdisciplinary work across academic boundaries whilst recognising the challenges of research on, in and with Life and Medical sciences."
-  thumbnailUrl: SahraGibbon.jpg
-  rockstar: false
-  social:
-    - {name: "site", link: "http://www.ucl.ac.uk/anthropology/people/academic-teaching-staff/sahra-gibbon"}
--
-  id: 6
-  name: "Dr. Anne"
-  surname: "Lanceley"
-  company: "Department of Women's Health, UCL"
-  title: "Senior lecturer"
-  bio: "Dr Anne Lanceley is senior lecturer in the Department of Women’s Health at UCL, and a specialist nurse and scientist for the Global Institute of Psychosocial, Palliative and End-of-Life-Care. Early in her career, Anne commissioned the first UK Teenage Cancer Unit in the UK. Today, as well as being elected Honorary Secretary to the British Psychological Oncology Society; a fellow of the European Academy of Nursing Science; and member of the European Organisation for the Research and Treatment of Cancer Quality of Life Group; Anne heads the Patient Care Research Group at UCL, a group that aims to develop new strategies to improve outcomes in psychological response, prevention and palliation of disease in women’s cancer."
-  thumbnailUrl: AnneLanceley.jpg
-  rockstar: false
-  social:
-    - {name: "site", link: "https://iris.ucl.ac.uk/iris/browse/profile?upi=ALANC29"}
--
   id: 7
   name: "Prof. Anne"
   surname: "Kerr"
@@ -68,3 +44,124 @@ Anne currently holds a Wellcome Trust Senior Investigator award in Society and E
   rockstar: false
   social:
     - {name: "site", link: "http://www.research.lancs.ac.uk/portal/en/people/ana-porrocheescudero(ed61266f-042e-46e0-9b2c-7e6ebf6a3f00).html"}
+-
+  id: 9
+  name: "Dr. Cinzia"
+  surname: "Greco"
+  company: "Division of Medical Education, University of Manchester"
+  title: "Newton International Research Fellow"
+  bio: "Cinzia's current research, funded with a Newton International Fellowship at the University of Manchester, focuses on the recent history of metastatic breast cancer. Cinzia obtained her PhD in Health, Population and Social Policies at the Ecole des études en sciences sociales in 2016. Her PhD focused on post-mastectomy breast reconstruction and cosmetic surgery of the breast in France."
+  thumbnailUrl: Cinzia_Greco.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "https://www.research.manchester.ac.uk/portal/cinzia.greco.html"}
+-
+  id: 10
+  name: "Prof. Julie"
+  surname: "Fish"
+  company: "Division of Social Work and Health Studies, De Montfort University Leicester"
+  title: "Professor"
+  bio: "Julie Fish is a Professor in Social Work and Health Inequalities in the Division of Social Work and Health Studies, and Director of the Centre for LGBTQ Research at De Montfort University Leicester. Julie has published widely in the fields of human rights and lesbian, gay, bisexual and trans health and social inequalities. Julie is a member of the Department of Health National Cancer Equalities."
+  thumbnailUrl: Julie_Fish.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "http://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/julie-fish/julie-fish.aspx"}
+-
+  id: 11
+  name: "Dr. Julia"
+  surname: "Swallow"
+  company: "School of Sociology and Social Policy, University of Leeds"
+  title: "Research Fellow"
+  bio: "Julia Swallow is working as a Research Fellow on the Wellcome Trust-funded project 'Translations and transformations in patienthood: cancer in the post-genomics era' at the School of Sociology and Social Policy at the University of Leeds. Julia obtained her PhD in Sociology at University of Leeds in 2017, in which she examined the role of instruments for screening cognitive function and Alzheimer's disease."
+  thumbnailUrl: Julia_Swallow.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "http://www.sociology.leeds.ac.uk/people/staff/swallow1/"}
+-
+  id: 12
+  name: "Henry"
+  surname: "Llewellyn"
+  company: "Marie Curie Palliative Care Research Department, University College London"
+  title: "PhD candidate"
+  bio: "Henry is a PhD candidate in the Marie Curie Palliative Care Research Department at University College London. His dissertation is an ethnography of care and treatment for people living with brain tumours. He explores how patients, families and a range of practitioners in the UK navigate complex treatment decisions amid an unpredictable disease and shifting terrain of care."
+  thumbnailUrl: Henry_Llewellyn.png
+  rockstar: false
+  social:
+    - {name: "http://www.ucl.ac.uk/psychiatry/people/profiles/henry-llewellyn"}
+-
+  id: 13
+  name: "Ignacia"
+  surname: "Arteaga"
+  company: "Anthropology Department, University College London"
+  title: "PhD candidate"
+  bio: "Ignacia is a PhD candidate in the Department of Anthropology at University College London. Her PhD project examines the experiences of colorectal cancer treatments in London, teasing out the potential of professional and lay caregiving practices to create different possibilities of experience."
+  thumbnailUrl: IgnaciaArteaga.jpg
+  rockstar: false
+  social:
+    - {name: "http://www.ucl.ac.uk/anthropology/people/research-students/maria-arteaga"}
+-
+  id: 14
+  name: "Clara"
+  surname: "Therond"
+  company: "Anthropology Department, University College London"
+  title: "MSc"
+  bio: "Clara is an early career researcher whose recent MSc dissertation explored the sociocultural implications of BRCA mainstreaming genetic testing in the treatment of ovarian cancer patients in the practice of oncology. Clara's research interests include the anthropology of biomedicine, clinical ethnography, genetic technologies, and the social and political implications of personalised medicine."
+  thumbnailUrl: ClaraTherond.jpg
+  rockstar: false
+-
+  id: 15
+  name: "Prof. Kirsten"
+  surname: "Bell"
+  company: "Department of Life Sciences, University of Roehampton"
+  title: "Professor"
+  bio: "Kirsten Bell is Professor of Social Anthropology at the Centre for Research in Evolutionary, Social and Interdisciplinary Anthropology in the Department of Life Sciences at the University of Roehampton. In 2000 Kirsten completed her PhD in social anthropology, at the James Cook University in Australia, which was based on fieldwork in South Korea on Chondogyo, one of South Korea's new religious movements. Over the last decade or so, Kirsten has held numerous academic appointments in anthropology departments including at the University of Northern Colorado and Macquarie University in Australia and the University of British Columbia in Canada. Kirsten's research is primarily focused on the anthropology of health and medicine, which includes understanding how cancer is experienced, particularly in the survivorship phase.  Kirsten has numerous publications to her name, which include her book, published last year entitled: 'Health and Other Unassailable Values: Reconfigurations of Health, Evidence and Ethics'. A very engaging read which sets out to examine health as a core cultural concept, unpacking contemporary conceptions of health and the transformations in how we understand it, assess it and enact it. Kirsten's other publications include 'Communicating evidence: Lifestyle cancer and the promise of a disease-free future'; 'The breast-cancer-ization of cancer survivorship: Implications for experiences of the disease'; and 'Biomarkers, the molecular gaze and the transformation of cancer survivorship'."
+  thumbnailUrl: Kirsten_Bell.jpg
+  rockstar: false
+  social:
+    - {name: "https://pure.roehampton.ac.uk/portal/en/persons/kirsten-bell(8860dd01-a151-471b-9fe3-4f8de7e0f82a).html"}
+-
+  id: 16
+  name: "Dr. Lynn"
+  surname: "Calman"
+  company: "Macmillan Survivorship Research Group in Health Sciences at the University of Southampton"
+  title: "Senior Research Fellow"
+  bio: "Lynn Calman is a Senior Research Fellow in Macmillan Survivorship Research Group [MSRG] in Health Sciences at the University of Southampton. Lynn is the deputy director of the Macmillan funded MSRG, designed to inform and enhance the development of efficient and effective services to support cancer survivors and help improve their recovery. Before joining the MSRG, Lynn completed an MRC post-doctoral fellowship in health services research and the health of the public at the University of Manchester. Lynn is a member of the National Cancer Research Institute (NCRI) Psychosocial Clinical Studies Group and Chairs the Patient Reported Outcome Measurement (PROMS) Subgroup. She worked as part of a Cochrane Group which undertook the systematic review: 'Strategies to increase participant recruitment to research by healthcare professionals'. She also forms part of a team of researchers funded by the Dimbleby Cancer Care: 'Maintaining psychological well-being in advanced illness: What can we learn from patients' and carers' own coping strategies?'  As well as having considerable methodological expertise in, for example, the development and evaluation of complex interventions, Lynn has a particular research interest in lung cancer recovery, survivorship and self-management research following cancer treatment."
+  thumbnailUrl: Lynn_Calman.jpg
+  rockstar: false
+  social:
+    - {name: "https://www.southampton.ac.uk/healthsciences/about/staff/lc1c11.page"}
+-
+  id: 17
+  name: "Dr. Cecilia"
+  surname: "Vindrola-Padros"
+  company: "Department of Applied Health Research at University College London"
+  title: "Research Associate"
+  bio: "Cecilia Vindrola Padros is a Research Associate at the Department of Applied Health Research at University College London. Cecilia currently works as an applied medical anthropologist across three teams: Reorganising specialist cancer surgery for the 21st century: a mixed methods evaluation; The Royal Free London (RFL) Group Model Evaluation (which is an embedded research team); and the National Institute of Academic Anaesthesia (NIAA) Health Services Research Centre for the Royal College of Anaesthetists. Funded by a Fulbright Grant, Cecilia began her academic career at the University of Florida undertaking doctoral and masters training in Applied Medical Anthropology. Cecilia's doctoral research focused on the medical travel experiences of families in Argentina. Her research interests include the delivery of cancer therapies and supportive care; communication strategies used by healthcare professionals who care for hospitalised children; perioperative care; embedded research in healthcare organisations. Recent publications include: 'Centralising specialist cancer surgery services in England: survey of factors that matter to patients and carers and health professionals' and 'Discrete-choice experiment to analyse preferences for centralizing specialist cancer surgery services'."
+  thumbnailUrl: Cecilia_Vindrola-Padros.jpg
+  rockstar: false
+  social:
+    - {name: "https://iris.ucl.ac.uk/iris/browse/profile?upi=CVIND44"}
+-
+  id: 56
+  name: "Dr. Anne"
+  surname: "Lanceley"
+  company: "Department of Women's Health, UCL"
+  title: "Senior lecturer"
+  bio: "Dr Anne Lanceley is senior lecturer in the Department of Women’s Health at UCL, and a specialist nurse and scientist for the Global Institute of Psychosocial, Palliative and End-of-Life-Care. Early in her career, Anne commissioned the first UK Teenage Cancer Unit in the UK. Today, as well as being elected Honorary Secretary to the British Psychological Oncology Society; a fellow of the European Academy of Nursing Science; and member of the European Organisation for the Research and Treatment of Cancer Quality of Life Group; Anne heads the Patient Care Research Group at UCL, a group that aims to develop new strategies to improve outcomes in psychological response, prevention and palliation of disease in women’s cancer."
+  thumbnailUrl: AnneLanceley.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "https://iris.ucl.ac.uk/iris/browse/profile?upi=ALANC29"}
+-
+  id: 5
+  name: "Dr. Sahra"
+  surname: "Gibbon"
+  company: "Department of Anthropology, UCL"
+  title: "Reader in Medical Anthropology"
+  bio: "Dr Sahra Gibbon is Reader in Medical Anthropology at the Department of Anthropology, University College London. Sahra’s long standing and extensive research in the field of BRCA genetics and cancer genetics, in the UK and Latin America, includes work examining the dynamic and changing relationships between ‘public’ and ‘scientists’ across culturally comparative landscapes, and how health inequalities and human genetic variation intersect in the context of cancer genetics.
+
+In addition, to an impressive record of publications which includes the forthcoming ‘Routledge Handbook of Genomics, Health and Society’; ‘Breast Cancer Genes and the Gendering of Knowledge. Science and Citizenship in the Cultural Context of the New Genetics’; and ‘Breast Cancer Gene Research and Medical Practices: Translational Perspectives in the Time of BRCA’; Sahra is committed to forging new pathways of interdisciplinary work across academic boundaries whilst recognising the challenges of research on, in and with Life and Medical sciences."
+  thumbnailUrl: SahraGibbon.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "http://www.ucl.ac.uk/anthropology/people/academic-teaching-staff/sahra-gibbon"}
