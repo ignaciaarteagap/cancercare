@@ -13,28 +13,16 @@
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
 						{% if site.showSessions %}
+							<h4>Participating in</h4>
+							<ul class="about">
 							{% for session in site.data.sessions %}
 								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
-										<h4>{{ session.title }}</h4>
-										{% if session.language != null %}
-										<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
-										{% endif %}
-										{% if session.complexity != null %}
-										<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
-										{% endif %}
-										{% if session.video %}
-										<div class="theme-video embed-responsive embed-responsive-16by9">
-										    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
-										</div>
-										{% endif %}
-										<p class="theme-description">{{ session.description }}</p>
-										{% if session.presentation %}
-										<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
-										{% endif %}
+										<li><a href="{{ site.baseurl | append: '/schedule/#session-' | append: session.id }}">{{ session.title }}</a></li>
 									{% endif %}
-								{% endfor %}		
+								{% endfor %}
 							{% endfor %}
+							</ul>
 							<hr>
 						{% endif %}
 						<div class="people-details">
@@ -49,7 +37,7 @@
 									{% if speaker.ribbon != null %}
 									<div class="modal-ribbon-wrapper">
 			                            {% for ribbon in speaker.ribbon %}
-			                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+			                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
 			                            {% endfor %}
 			                        </div>
 			                        {% endif %}
