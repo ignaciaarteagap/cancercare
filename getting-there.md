@@ -5,7 +5,7 @@ permalink: /getting-there/
 isStaticPost: true
 ---
 
-The conference takes place at two locations. for the workshop and round-table (10:00-17:00), please come to
+The conference takes place at two locations. For the workshop and round-table (10:00-17:00), please come to
 #### Room 106, [Gordon House, 29 Gordon Square, WC1H 0PP](https://goo.gl/maps/dHeDsG8ZRvm)
 <br><br>
 Afterwards, the keynote session (17:00-21:00) takes place at
