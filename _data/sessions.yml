@@ -84,14 +84,14 @@
   description: "<b>Abstract:</b> TBC"
   subtype: keynote
   speakers: [3]
-  location: "Archeology Lecture Theatre, <a href='https://goo.gl/maps/AP6S7YGESW32'>Anthropology Department, 14 Taviton Road, WC1H 0BW</a>"
+  location: "Archeology Lecture Theatre, <a href='https://goo.gl/maps/AP6S7YGESW32'>Anthropology Department, 14 Taviton Street, WC1H 0BW</a>"
 -
   id: 101
   title: "Keynote: Participating in Personalisation: recrafting values in UK cancer care"
   description: "It has seemed as though research and care in cancer services can be readily distinguished through regularly updated ethical guidelines, practical procedures, job roles, funding and patient interests. Social as well as health scientists may address research and care separately. For example, ethnographers have drawn attention to the (unpaid) clinical labour that patients dedicate to research, but I wonder whether care also demands this labour. Developments in personalised medicine provide us with the opportunity to reconsider values in cancer care and, focusing on the logic of 'participation', I discuss a form of labour that is critical to developments in molecular biology, data science, research design and NHS improvements."
   subtype: keynote
   speakers: [4]
-  location: "Archeology Lecture Theatre, <a href='https://goo.gl/maps/AP6S7YGESW32'>Anthropology Department, 14 Taviton Road, WC1H 0BW</a>"
+  location: "Archeology Lecture Theatre, <a href='https://goo.gl/maps/AP6S7YGESW32'>Anthropology Department, 14 Taviton Street, WC1H 0BW</a>"
 -
   id: 102
   title: "Keynote: Q&A session"
@@ -100,9 +100,9 @@
   <b>Chair:</b> Dr. Sahra Gibbon"
   subtype: keynote
   speakers: [3, 4, 5]
-  location: "Archeology Lecture Theatre, <a href='https://goo.gl/maps/AP6S7YGESW32'>Anthropology Department, 14 Taviton Road, WC1H 0BW</a>"
+  location: "Archeology Lecture Theatre, <a href='https://goo.gl/maps/AP6S7YGESW32'>Anthropology Department, 14 Taviton Street, WC1H 0BW</a>"
 -
   id: 004
   title: "Wine reception"
   description: "We encourage the attendance of people coming from different professional backgrounds for an engaged conversation over a glass of wine."
-  location: "Archeology Lecture Theatre, <a href='https://goo.gl/maps/AP6S7YGESW32'>Anthropology Department, 14 Taviton Road, WC1H 0BW</a>"
+  location: "Archeology Lecture Theatre, <a href='https://goo.gl/maps/AP6S7YGESW32'>Anthropology Department, 14 Taviton Street, WC1H 0BW</a>"
