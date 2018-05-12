@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "About"
 aboutBlock:
- - {title: "Workshop", image: "workshop.png", text: "Healthcare professionals working in the field of cancer care will be invited to reflect, along with panellists and the wider audience on ethnographic work carried out by post-fieldwork PhD students and academics in the UK." }
- - {title: "Round table", image: "roundtable.png", text: "Led by Dr Sahra Gibbon and three leading academics working in the field of cancer, to reflect on the continuum of cancer care, and possible lines for future research and collaboration between ethnography and oncology in the UK. Confirmed speakers are: Dr Sahra Gibbon (chair), Dr Anne Kerr and Dr Anne Lanceley." }
- - {title: "Keynotes", image: "key-note.png", text: "Professor Daniel Hochhauser (UCL Cancer Institute) and Professor Sophie Day (Goldmisths University) are two leading academics in the UK who will share with us their perspectives on the values and dynamics that shape cancer care in the country. Their presentations will be followed by Dr. Sahra Gibbon's closing remarks." }
+ - {title: "Workshop", image: "workshop.png", text: "Clinical professionals and researchers working in the field of cancer care are invited to reflect, alongside the wider audience on ethnographic work carried out by post-fieldwork PhD students and academics in the UK." }
+ - {title: "Round table", image: "roundtable.png", text: "Led by Dr Sahra Gibbon and three leading academics in cancer care research, we will discuss the opportunities and challenges of carrying out research in the field  and possible lines for future  collaboration between ethnography and oncology in the UK. Confirmed speakers are:  Dr Anne Kerr, Dr. Ana Porroche-Escudero and Cecilia Vindrola-Padros." }
+ - {title: "Keynotes", image: "key-note.png", text: "Professor Daniel Hochhauser (UCL Cancer Institute) and Professor Sophie Day (Goldmisths University) are two leading academics in the UK who will share with us their perspectives on the meeting points between oncology and ethnography. After a Q&A session chaired by Dr. Sahra Gibbon, all participants are invited to continue the conversation over a glass of wine." }
 
 
 # Latest News Block
