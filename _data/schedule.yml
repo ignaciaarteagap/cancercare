@@ -1,23 +1,68 @@
-- 
+-
   date: "2018-06-05"
   dateReadable: "June 5"
-  tracks: 
+  tracks:
     - {title: "Event", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "14:30",
-        sessionIds: [001]
+        startTime: "10:00",
+        endTime: "10:20",
+        sessionIds: [005]
     }
     - {
-        startTime: "15:00",
-        endTime: "16:30",
+        startTime: "10:20",
+        endTime: "10:30",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:30",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:00",
+        sessionIds: [300]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [008]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [301]
+    }
+    - {
+        startTime: "13:45",
+        endTime: "14:45",
+        sessionIds: [009]
+    }
+    - {
+        startTime: "14:45",
+        endTime: "15:15",
+        sessionIds: [300]
+    }
+    - {
+        startTime: "15:15",
+        endTime: "16:45",
         sessionIds: [002]
     }
     - {
         startTime: "17:00",
+        endTime: "17:45",
+        sessionIds: [100]
+    }
+    - {
+        startTime: "17:45",
+        endTime: "18:30",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "18:30",
         endTime: "19:00",
-        sessionIds: [003]
+        sessionIds: [102]
     }
     - {
         startTime: "19:00",
