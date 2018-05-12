@@ -1,10 +1,4 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
   id: 503
   title: "Lunch Break"
   place: "Dining room"
@@ -15,19 +9,88 @@
   description: "Healthcare professionals working in the field of cancer care will be invited to reflect, along with panellists and the wider audience on ethnographic work carried out by post-fieldwork PhD students and academics in the UK. Schedule TBA."
   subtype: workshop
 -
-  id: 002
-  title: "Round-table discussion"
-  description: "Led by Dr Sahra Gibbon and three leading academics working in the field of cancer, to reflect on the continuum of cancer care, and possible lines for future research and collaboration between ethnography and oncology in the UK. Confirmed speakers are: Dr Sahra Gibbon (chair), Dr Anne Kerr, Dr. Anne Lanceley and Dr. Ana Porroche-Escudero."
-  subtype: presentation
-  speakers: [5, 6, 7, 8]
--
-  id: 003
-  title: "Key-notes"
-  description: "Professor Daniel Hochhauser (UCL Cancer Institute) and Professor Sophie Day (Goldmisths University) are two leading academics in the UK who will share with us their perspectives on the values and dynamics that shape cancer care in the country. Their presentations will be followed by Dr. Sahra Gibbon's closing remarks."
-  subtype: keynote
-  speakers: [3, 4]
--
   id: 004
   title: "Wine reception"
   description: "We encourage the attendance of people coming from different professional backgrounds for an engaged disucssion over a glass of wine."
-
+-
+  id: 005
+  title: "Arrival and informal introductions"
+  description: "<b>Location:</b> Gordon House 106, 29 Gordon Square, WC1H 0PP"
+-
+  id: 006
+  title: "Welcome"
+  description: ""
+-
+  id: 007
+  title: "Workshop session 1: Unpacking patients' experiences of treatment"
+  description: "
+  <b>Prof. Julie Fish</b>  More than a Diagnosis: Promoting good outcomes in Lesbian, Gay and Bisexual cancer care
+<br>
+  <b>M. Ignacia Arteaga</b> Chemotherapy as insurance policy: Risk, anticipation and incommensurable values
+  <br>
+<b>Discussant:</b> Dr. Anne Lanceley"
+  speakers: [56, 10, 13]
+-
+  id: 300
+  title: "Coffee Break"
+  service: true
+  description: ""
+-
+  id: 008
+  title: "Workshop session 2: Creating therapeutic value"
+  description: "
+  <b>Dr. Julia Swallow</b>  Accomplishing complex genomic based multi-arm trials: Tumour tissue in affective practices of care
+<br>
+  <b>Henry Llewellyn</b> Tumour tissue economies: Personalised immunotherapies and the ascription of therapeutic value to cancer tissue
+  <br>
+<b>Discussant:</b> Prof. Kirsten Bell"
+  speakers: [11, 12, 15]
+-
+  id: 301
+  title: "Lunch"
+  service: true
+  description: ""
+-
+  id: 009
+  title: "Workshop session 3: Facing the limits"
+  description: "
+  <b>Dr. Cinzia Greco</b> The ethics of uncertainty: A qualitative study of the experience of patients with metastatic breast cancer
+<br>
+  <b>Clara Therond</b> The narrative paradox of the BRCA gene: through suffering emerges new hope in the clinical encounters of oncology
+  <br>
+<b>Discussant:</b> Dr. Lynn Calman"
+  speakers: [9, 14, 16]
+-
+  id: 002
+  title: "Round-table discussion"
+  description: "
+  <b>Prof. Anne Kerr</b> Power, knowledge and qualitative research in cancer clinics and communities
+<br>
+  <b>Dr. Ana Porroche Escudero</b> TBC
+<br>
+  <b>Dr. Cecilia Vindrola-Padros</b> Applied cancer research: Is our research responsive, relevant and timely?
+<br>
+  <b>Chair:</b> Dr. Sahra Gibbon
+  "
+  subtype: presentation
+  speakers: [7, 8, 17, 5]
+-
+  id: 100
+  title: "Keynote: Do anthropological models of cancer inevitably conflict with a biomedically-focused model?"
+  description: "<b>Abstract:</b> TBC"
+  subtype: keynote
+  speakers: [3]
+-
+  id: 101
+  title: "Keynote: Participating in Personalisation: recrafting values in UK cancer care"
+  description: "It has seemed as though research and care in cancer services can be readily distinguished through regularly updated ethical guidelines, practical procedures, job roles, funding and patient interests. Social as well as health scientists may address research and care separately. For example, ethnographers have drawn attention to the (unpaid) clinical labour that patients dedicate to research, but I wonder whether care also demands this labour. Developments in personalised medicine provide us with the opportunity to reconsider values in cancer care and, focusing on the logic of 'participation', I discuss a form of labour that is critical to developments in molecular biology, data science, research design and NHS improvements."
+  subtype: keynote
+  speakers: [4]
+-
+  id: 102
+  title: "Keynote: Q&A session"
+  description: "Our keynote speakers answer questions from the chair and the audience.
+<br>
+  <b>Chair:</b> Dr. Sahra Gibbon"
+  subtype: keynote
+  speakers: [3, 4, 5]
